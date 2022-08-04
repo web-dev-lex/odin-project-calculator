@@ -13,12 +13,13 @@
 }
 
 .calc-interface {
-  
+  width: 13em;
+  height: 16em;
 }
 
-.clear-btn {
-  width: 3em;
-  height: 3em;
+.display {
+ width: 9em;
+ border: none;
 }
 
 .row {
